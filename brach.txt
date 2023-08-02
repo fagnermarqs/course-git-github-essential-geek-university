@@ -1,0 +1,7 @@
+"Um brach nada mais é do que uma ramificação do projeto."
+
+branch master -> ramo principal
+
+      Base                                                 ----------> branch outra_nova_funcionalidade
+------|----------------------------------------------------|----------> project
+      ------> branch nova_funcionalidade                   Base
